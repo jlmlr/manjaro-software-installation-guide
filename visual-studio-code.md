@@ -25,6 +25,27 @@ cd visual-studio-code-bin
 makepkg -si
 ```
 
+## Method 2 out of date! Checked at December 2023!!!
+Not up to date! Check the Link via Browser from Method 2
+```
+http://repo.archlinux.fr
+```
+Checked at December 2023
+
+418 - Gone
+
+repo.archlinux.fr started in 2006, to host packages created by the Archlinux french community, with AFUR "Arch French User Repository".
+
+The most famous package hosted was Yaourt, loved and hated by the community. 
+
+Yaourt has been discontinued in 2018 (https://github.com/archlinuxfr/yaourt/issues/382), and nobody really uses repo.archlinux.fr anymore, so it's time to say goodbye (https://forums.archlinux.fr/viewtopic.php?t=22683, in french).
+
+Enjoy,
+
+Skunnyk,
+Sept 2023
+
+
 ## Install using Yaourt (Method # 2)
 
 It will be a two-step process. First, we will install Yaourt, then use it to install VS Code.
